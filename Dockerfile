@@ -17,7 +17,7 @@ RUN apk add --no-cache \
       libfastjson-dev \
       liblognorm-dev \
       librelp-dev \
-      liblogging-dev
+      liblogging-dev \
       && \
     :
 COPY . /
