@@ -7,7 +7,7 @@ RUN apk add --no-cache \
       rsyslog-mysql \
       rsyslog-pgsql \
       rsyslog-tls \
-      git build-base automake libtool autoconf-archive autoconf py-docutils gnutls gnutls-dev \
+      git build-base automake libtool autoconf py-docutils gnutls gnutls-dev \
       zlib-dev curl-dev mysql-dev libdbi-dev libuuid util-linux-dev \
       libgcrypt-dev flex bison bsd-compat-headers linux-headers valgrind librdkafka-dev \
       autoconf-archive \
