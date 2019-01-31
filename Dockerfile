@@ -3,7 +3,7 @@ FROM alpine:3.8
 ARG VERSION
 
 RUN apk add --no-cache \
-      rsyslog=${VERSION} \
+      rsyslog \
       rsyslog-hiredis \
       rsyslog-snmp \
       rsyslog-mysql \
