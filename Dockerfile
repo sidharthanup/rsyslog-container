@@ -10,7 +10,6 @@ RUN apk add --no-cache \
       git build-base automake libtool py-docutils gnutls gnutls-dev \
       zlib-dev curl-dev mysql-dev libdbi-dev libuuid util-linux-dev \
       libgcrypt-dev flex bison bsd-compat-headers linux-headers valgrind librdkafka-dev \
-      autoconf-archive \
       libestr-dev \
       libfastjson-dev \
       liblognorm-dev \
